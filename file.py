@@ -1,4 +1,1 @@
-print("This file calculates a + b")
-a =3
-b = 5
-print(a+b)
+print("This file calculates nothing now")
